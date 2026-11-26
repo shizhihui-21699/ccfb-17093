@@ -1,0 +1,9 @@
+name: webview_bridge
+description: Origin-scoped, frame-aware JavaScript bridge for a Flutter WebView activity-page container.
+version: 0.1.0
+repository: internal
+environment:
+  sdk: ^3.9.0
+dev_dependencies:
+  test: ^1.32.0
+  lints: ^6.1.0
